@@ -41,7 +41,7 @@ I'm a full-stack developer passionate about building awesome applications with *
 ## 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rezahabibi)
 - 🐦 [Twitter](https://twitter.com/RezaHabibi1001)
-- 📧 Email: [reza.habibi@example.com](mailto:rezahabibi.coder@example.com)
+- 📧 Email: [rezahabibi.coder@gmail.com](mailto:rezahabibi.coder@gmail.com)
 
 ## 💬 Ask me about:
 - Building scalable backend APIs with **NestJS**
