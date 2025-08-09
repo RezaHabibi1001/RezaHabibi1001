@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Reza Habibi!
 
-I'm a full-stack developer passionate about building awesome applications with **NestJS**, **React Native**, and real-time communication technologies like **Mediasoup** and **WebRTC**.
+I'm a web and mobile developer passionate about building awesome applications with **NestJS**, **React Native**, and real-time communication technologies like **Mediasoup** and **WebRTC**.
 
 ## 🔧 Technologies & Tools
 
