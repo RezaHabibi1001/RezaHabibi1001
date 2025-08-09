@@ -14,8 +14,6 @@ I'm a full-stack developer passionate about building awesome applications with *
 
 ### Mobile (React Native)
 - 📱 **React Native** for cross-platform mobile apps
-- ⚛️ **React** for UI components
-- 🧑‍💻 **TypeScript** for static typing
 - 📱 **Expo** for easier development and deployment
 
 ### Real-time Communication
@@ -28,20 +26,10 @@ I'm a full-stack developer passionate about building awesome applications with *
 - 🔍 **Redis** for caching and optimization
 - 🗃️ **MongoDB** for document-based NoSQL database
 
-## 📈 GitHub Stats
-
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RezaHabibi1001&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 🌱 Currently Learning
-- Advanced **TypeScript**
-- **GraphQL** with NestJS
-- **Redux** for state management in React Native
-- **WebRTC** scaling and optimization with Mediasoup
-
 ## 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rezahabibi)
 - 🐦 [Twitter](https://twitter.com/RezaHabibi1001)
-- 📧 Email: [rezahabibi.coder@gmail.com](mailto:rezahabibi.coder@gmail.com)
+- 📧 Email: [rezahabibi.tech@gmail.com](mailto:rezahabibi.coder@gmail.com)
 
 ## 💬 Ask me about:
 - Building scalable backend APIs with **NestJS**
